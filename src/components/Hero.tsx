@@ -1,4 +1,3 @@
-import React from "react";
 import Image from "next/image";
 import nlwLogo from "../assets/nlw-spacetime-logo.svg";
 import Link from "next/link";

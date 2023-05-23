@@ -1,6 +1,5 @@
 import { getUser } from "@/lib/auth";
 import Image from "next/image";
-import React from "react";
 
 const Profile = () => {
   const { name, avatarUrl } = getUser();
